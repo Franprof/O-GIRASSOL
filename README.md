@@ -11,7 +11,7 @@
 
 <h3>Entenda os benefícios da planta girassol</h3>
 <p>A planta girassol é uma flor que se destaca em todos os jardins ou na decoração de ambientes.</p>
-<p> Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente.<p/>
+<p>Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente.<p/>
 
 <h3>Confira os principais benefícios a seguir.</h3>
 <p>Promove a felicidade e o equilíbrio no seu lar. </p>
@@ -28,7 +28,7 @@ Por apresentar características que o assemelham ao Sol, o girassol possibilita 
 <h3>Estimula o amor e a vida feliz</h3>
 A energia de sua cor e a imponência de seu formato são atributos que estimulam uma vida mais alegre, cercada de bons sentimentos, como o respeito, a solidariedade, a honestidade e o amor.
 
-<3>Cria um sentimento de conforto</h3>
+<h3>Cria um sentimento de conforto</h3>
 <p>Como está sempre seguindo a rota solar, a flor harmoniza luz e sombra, incentiva a conciliação, sugere calor, aconchego e conforto para o corpo e para a mente.
 Significado do girassol: a planta que traz felicidade</p>
 
