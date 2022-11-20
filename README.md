@@ -1,4 +1,5 @@
-<h1># O-GIRASSOL</h1>
+<h1 ![image](https://user-images.githubusercontent.com/106621932/202905388-c57ca60c-4471-4a02-a667-6313d8c74757.png)
+># O-GIRASSOL</h1>
 <p>Atividades de ciência envolvendo as plantas</p>
 
 <h2>Conheça o significado do girassol</h2>
