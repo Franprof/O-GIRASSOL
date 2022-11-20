@@ -1,5 +1,17 @@
-<h1 ![image](https://user-images.githubusercontent.com/106621932/202905388-c57ca60c-4471-4a02-a667-6313d8c74757.png)
-># O-GIRASSOL</h1>
+<!DOCTYPE html>
+<html>
+<html lang="pt-br">
+ <head>
+      <meta charset="UTF-8">
+    <div class="principal">
+    <link rel="stylesheet" href="style.css">
+   <head>
+     <h1 style="text-align:center"><strong><em> O GIRASSOL</strong></em></h1>
+      </head>
+     <body>
+      <h1 style=img src=             "https://www.designi.com.br/images/preview/10001839.jpg" width="150" height="150">
+    
+    </body>
 <p>Atividades de ciência envolvendo as plantas</p>
 
 <h2>Conheça o significado do girassol</h2>
@@ -10,26 +22,26 @@
 <h3>O nome científico do girassol é Helianthus Annuus, que significa justamente a “flor do Sol” — e não é para menos.</h3>
 <p>A planta tem uma característica particular, que é a de ser heliotrópica, ou seja, o seu caule gira sempre para manter a posição da flor direcionada ao Sol e facilitar o seu crescimento.<p/>
 
-<h3>Entenda os benefícios da planta girassol</h3>
+<h4>Entenda os benefícios da planta girassol</h4>
 <p>A planta girassol é uma flor que se destaca em todos os jardins ou na decoração de ambientes.</p>
 <p>Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente.<p/>
 
-<h3>Confira os principais benefícios a seguir.</h3>
+<h5>Confira os principais benefícios a seguir.</h5>
 <p>Promove a felicidade e o equilíbrio no seu lar. </p>
 
-<h3>Traz força</h3>
+<h6>Traz força</h6>
 <p>O girassol é uma flor que gosta de luz e de espaço. Para alcançar esses objetivos, ela se movimenta, gira seu caule acompanhando a trajetória do Sol e consegue encarar e sobreviver às intempéries.</p>
 
-<h3>Incentiva a amizade</h3>
-A sua cor amarela significa alegria, dignidade, respeito, felicidade e lealdade. São atributos indispensáveis para a conquista e a consolidação da amizade.
+<h7>Incentiva a amizade</h7>
+<p>A sua cor amarela significa alegria, dignidade, respeito, felicidade e lealdade. São atributos indispensáveis para a conquista e a consolidação da amizade.</p>
 
-<h3>Vibra o sucesso e a exuberância</h3>
-Por apresentar características que o assemelham ao Sol, o girassol possibilita boas vibrações nos espaços, sempre relacionadas à beleza, exuberância, sorte e vitórias.
+<h8>Vibra o sucesso e a exuberância</h8>
+<p>Por apresentar características que o assemelham ao Sol, o girassol possibilita boas vibrações nos espaços, sempre relacionadas à beleza, exuberância, sorte e vitórias.</p>
 ⠀
-<h3>Estimula o amor e a vida feliz</h3>
-A energia de sua cor e a imponência de seu formato são atributos que estimulam uma vida mais alegre, cercada de bons sentimentos, como o respeito, a solidariedade, a honestidade e o amor.
+<h9>Estimula o amor e a vida feliz</h9>
+<p>A energia de sua cor e a imponência de seu formato são atributos que estimulam uma vida mais alegre, cercada de bons sentimentos, como o respeito, a solidariedade, a honestidade e o amor.</p>
 
-<h3>Cria um sentimento de conforto</h3>
+<h10>Cria um sentimento de conforto</h10>
 <p>Como está sempre seguindo a rota solar, a flor harmoniza luz e sombra, incentiva a conciliação, sugere calor, aconchego e conforto para o corpo e para a mente.
 Significado do girassol: a planta que traz felicidade</p>
 
@@ -39,15 +51,18 @@ Significado do girassol: a planta que traz felicidade</p>
 
 <p>Você conhece o significado da planta girassol, por exemplo? Essa é uma espécie muito procurada para presentear, já que está repleta de simbologias e significados.</p>
 
-<h3>Conheça o significado do girassol </h3>
+<h11>Conheça o significado do girassol </h11>
 <p>De acordo com pesquisadores, o girassol é originário da América do Sul. A descoberta foi publicada na revista Science. Outras fontes afirmam que a espécie teria surgido na América do Norte e Central.</p>
 
 <p>A planta seria cultivada por nações indígenas e usada como alimento. Diversos artefatos e imagens incas, por exemplo, contêm imagens da flor como analogia ao deus do Sol.</p>
 
-<h3>Saiba como plantar um girassol</h3>
+<h12>Saiba como plantar um girassol</h12>
+       
 <p>Para plantar um girassol, você não precisa de muito esforço. Basta saber a técnica correta, independentemente do local — no vaso ou no solo.</p>
 <p>Se for deixá-lo dentro de casa, por exemplo, basta utilizar um vaso grande e investir em mudas menores.</p>
 
 <p>Se a ideia é colorir o jardim e outras áreas externas, aposte nas mudas maiores, de modo que possam atingir seus tamanhos naturais — um girassol é capaz de atingir de 1 até 4 metros de altura!</p>
+      </body>
+      <html>
 
 
