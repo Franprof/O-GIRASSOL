@@ -21,10 +21,8 @@
 <h3>Incentiva a amizade</h3>
 A sua cor amarela significa alegria, dignidade, respeito, felicidade e lealdade. São atributos indispensáveis para a conquista e a consolidação da amizade.
 
-⠀
-<h3>Vibra o sucesso e a exuberância</h3>
+⠀<h3>Vibra o sucesso e a exuberância</h3>
 Por apresentar características que o assemelham ao Sol, o girassol possibilita boas vibrações nos espaços, sempre relacionadas à beleza, exuberância, sorte e vitórias.
-
 ⠀
 <h3>Estimula o amor e a vida feliz</h3>
 A energia de sua cor e a imponência de seu formato são atributos que estimulam uma vida mais alegre, cercada de bons sentimentos, como o respeito, a solidariedade, a honestidade e o amor.
@@ -43,7 +41,10 @@ Significado do girassol: a planta que traz felicidade</p>
 <p>De acordo com pesquisadores, o girassol é originário da América do Sul. A descoberta foi publicada na revista Science. Outras fontes afirmam que a espécie teria surgido na América do Norte e Central.</p>
 <p>A planta seria cultivada por nações indígenas e usada como alimento. Diversos artefatos e imagens incas, por exemplo, contêm imagens da flor como analogia ao deus do Sol.</p>
 
-<h3>Saiba como plantar um girassol</3>
-<p>Para plantar um girassol, você não precisa de muito esforço. Basta saber a técnica correta, independentemente do local — no vaso ou no solo. Se for deixá-lo dentro de casa, por exemplo, basta utilizar um vaso grande e investir em mudas menores.</p>
+<h3>Saiba como plantar um girassol</h3>
+<p>Para plantar um girassol, você não precisa de muito esforço. Basta saber a técnica correta, independentemente do local — no vaso ou no solo.</p>
+ <p>Se for deixá-lo dentro de casa, por exemplo, basta utilizar um vaso grande e investir em mudas menores.</p>
 
 S<p>e a ideia é colorir o jardim e outras áreas externas, aposte nas mudas maiores, de modo que possam atingir seus tamanhos naturais — um girassol é capaz de atingir de 1 até 4 metros de altura!</p>
+
+<h3 color: read>
