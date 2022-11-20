@@ -8,6 +8,7 @@
 
 <h3>O nome científico do girassol é Helianthus Annuus, que significa justamente a “flor do Sol” — e não é para menos.</h3>
 <p>A planta tem uma característica particular, que é a de ser heliotrópica, ou seja, o seu caule gira sempre para manter a posição da flor direcionada ao Sol e facilitar o seu crescimento.<p/>
+
 <h3>Entenda os benefícios da planta girassol</h3>
 <p>A planta girassol é uma flor que se destaca em todos os jardins ou na decoração de ambientes.</p>
 <p> Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente. <p/>
@@ -21,7 +22,7 @@
 <h3>Incentiva a amizade</h3>
 A sua cor amarela significa alegria, dignidade, respeito, felicidade e lealdade. São atributos indispensáveis para a conquista e a consolidação da amizade.
 
-⠀<h3>Vibra o sucesso e a exuberância</h3>
+<h3>Vibra o sucesso e a exuberância</h3>
 Por apresentar características que o assemelham ao Sol, o girassol possibilita boas vibrações nos espaços, sempre relacionadas à beleza, exuberância, sorte e vitórias.
 ⠀
 <h3>Estimula o amor e a vida feliz</h3>
