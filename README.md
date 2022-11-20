@@ -3,18 +3,18 @@
 
 <h2>Conheça o significado do girassol</h2>
 <p>De acordo com pesquisadores, o girassol é originário da América do Sul. A descoberta foi publicada na revista Science.</p> 
-<p>Outras fontes afirmam que a espécie teria surgido na América do Norte e Central.
-</p> <p>A planta seria cultivada por nações indígenas e usada como alimento. Diversos artefatos e imagens incas, por exemplo, contêm imagens da flor como analogia ao deus do Sol.</p>
+<p>Outras fontes afirmam que a espécie teria surgido na América do Norte e Central.</p>
+<p>A planta seria cultivada por nações indígenas e usada como alimento. Diversos artefatos e imagens incas, por exemplo, contêm imagens da flor como analogia ao deus do Sol.</p>
 
 <h3>O nome científico do girassol é Helianthus Annuus, que significa justamente a “flor do Sol” — e não é para menos.</h3>
 <p>A planta tem uma característica particular, que é a de ser heliotrópica, ou seja, o seu caule gira sempre para manter a posição da flor direcionada ao Sol e facilitar o seu crescimento.<p/>
 
 <h3>Entenda os benefícios da planta girassol</h3>
 <p>A planta girassol é uma flor que se destaca em todos os jardins ou na decoração de ambientes.</p>
-<p> Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente. <p/>
+<p> Ela cresce e se desenvolve bem em temperaturas altas, suportando índices próximos a 40° C! Por ser tão versátil, ela traz várias vantagens para a casa de quem a cultiva ou para a residência de quem a recebe como presente.<p/>
 
 <h3>Confira os principais benefícios a seguir.</h3>
-<p> Promove a felicidade e o equilíbrio no seu lar. </p>
+<p>Promove a felicidade e o equilíbrio no seu lar. </p>
 
 <h3>Traz força</h3>
 <p>O girassol é uma flor que gosta de luz e de espaço. Para alcançar esses objetivos, ela se movimenta, gira seu caule acompanhando a trajetória do Sol e consegue encarar e sobreviver às intempéries.</p>
