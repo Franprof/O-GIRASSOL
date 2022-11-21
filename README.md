@@ -8,11 +8,11 @@
   
      <h1 style="text-align:center"><strong><em> O GIRASSOL</strong></em></h1>
       </head>
-     <body>
-      <h1 style=img src=             "https://www.designi.com.br/images/preview/10001839.jpg" width="150" height="150">
-    
    
-<p>Atividades de ciência envolvendo as plantas</p>
+  <body>
+      <h1 style=img src="https://www.designi.com.br/images/preview/10001839.jpg" width="150" height="150">
+    
+   <p>Atividades de ciência envolvendo as plantas</p>
 
 <h2>Conheça o significado do girassol</h2>
 <p>De acordo com pesquisadores, o girassol é originário da América do Sul. A descoberta foi publicada na revista Science.</p> 
